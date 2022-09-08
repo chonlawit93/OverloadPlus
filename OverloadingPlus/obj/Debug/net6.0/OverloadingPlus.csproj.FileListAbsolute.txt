@@ -1,0 +1,15 @@
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/bin/Debug/net6.0/OverloadingPlus
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/bin/Debug/net6.0/OverloadingPlus.deps.json
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/bin/Debug/net6.0/OverloadingPlus.runtimeconfig.json
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/bin/Debug/net6.0/OverloadingPlus.dll
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/bin/Debug/net6.0/OverloadingPlus.pdb
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.csproj.AssemblyReference.cache
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.AssemblyInfoInputs.cache
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.AssemblyInfo.cs
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.csproj.CoreCompileInputs.cache
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.dll
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/refint/OverloadingPlus.dll
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.pdb
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/OverloadingPlus.genruntimeconfig.cache
+/Users/chonlawitwith-pettersen/Projects/NET/OverloadingPlus/OverloadingPlus/obj/Debug/net6.0/ref/OverloadingPlus.dll

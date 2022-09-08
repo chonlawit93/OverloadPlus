@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6BCF8290-9FEC-436C-A2F0-7F2CDDF5FED2}|Default">
+  <MonoDevelop.Ide.ItemProperties.OverloadingPlus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverloadingPlus/Helpers/Box.cs">
+    <Files>
+      <File FileName="OverloadingPlus/Program.cs" Line="31" Column="42" />
+      <File FileName="OverloadingPlus/Helpers/Box.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverloadingPlus" expanded="True">
+            <Node name="OverloadingPlus" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="Box.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
